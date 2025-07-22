@@ -37,7 +37,7 @@ This agent automates lead generation from Instagram using public data and APIs �
 
 ## 📸 Screenshots
 <img width="1249" height="238" alt="image" src="https://github.com/user-attachments/assets/490c6e9f-6de3-4be4-b054-92c62105bd12" />
-<img width="878" height="958" alt="image" src="https://github.com/user-attachments/assets/58413df4-f986-4630-bc0e-d2df926bf341" />
+<img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/58413df4-f986-4630-bc0e-d2df926bf341" />
 <img width="876" height="955" alt="image" src="https://github.com/user-attachments/assets/89548c9f-f18a-4078-ad01-08a2c4544ae8" />
 <img width="1266" height="219" alt="image" src="https://github.com/user-attachments/assets/3f9ca589-634d-4e4b-bc98-fb18436762e3" />
 
@@ -77,7 +77,7 @@ Workflow logic and API integration are complete and can be imported in any n8n i
 
 ## 🔗 Let’s Connect
 📧 Email: manveenmann9@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/your-name](https://linkedin.com/in/your-name)
+🌐 LinkedIn: [www.linkedin.com/in/manveen-kaur-mann-a55918311)
 
 ---
 

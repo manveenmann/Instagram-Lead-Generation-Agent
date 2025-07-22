@@ -38,7 +38,7 @@ This agent automates lead generation from Instagram using public data and APIs â
 ## ğŸ“¸ Screenshots
 <img width="1249" height="238" alt="image" src="https://github.com/user-attachments/assets/490c6e9f-6de3-4be4-b054-92c62105bd12" />
 <img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/58413df4-f986-4630-bc0e-d2df926bf341" />
-<img width="876" height="955" alt="image" src="https://github.com/user-attachments/assets/89548c9f-f18a-4078-ad01-08a2c4544ae8" />
+<img width="550" height="600" alt="image" src="https://github.com/user-attachments/assets/89548c9f-f18a-4078-ad01-08a2c4544ae8" />
 <img width="1266" height="219" alt="image" src="https://github.com/user-attachments/assets/3f9ca589-634d-4e4b-bc98-fb18436762e3" />
 
 ---
